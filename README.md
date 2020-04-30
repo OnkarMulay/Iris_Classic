@@ -1,2 +1,3 @@
 # Iris_Classic
-Iris plant dataset.... Classification
+Iris plant dataset.... 
+Classification SVM and KNN best results.
